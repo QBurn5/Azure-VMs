@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://guide-images.cdn.ifixit.com/igi/wYn6GS2wSEILXbXX.large" alt="VM-Logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifestyle Examples</h1>
