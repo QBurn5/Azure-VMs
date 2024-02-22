@@ -2,18 +2,20 @@
 <img src="https://guide-images.cdn.ifixit.com/igi/wYn6GS2wSEILXbXX.large" alt="VM-Logo"/>
 </p>
 
-<h1>Uploading and Using Virtual Machines</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Creating and Using Virtual Machines</h1>
 
-<h2>Environments and Technologies Used</h2>
+<h2>Creation</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Open Microsoft Azure
+- Create Resource Group
+- Create Network
+- Create Virtual Machine
 
-<h2>Operating Systems Used </h2>
+<h2>Using</h2>
 
-- Windows 10</b> (21H2)
+- Open Remote Desktop Connection
+- Type in Virtual Machine Number
+- 
 
 <h2>List of Prerequisites</h2>
 
