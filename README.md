@@ -2,7 +2,7 @@
 <img src="https://guide-images.cdn.ifixit.com/igi/wYn6GS2wSEILXbXX.large" alt="VM-Logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifestyle Examples</h1>
+<h1>Uploading and Using Virtual Machines</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
