@@ -15,46 +15,29 @@
 
 - Open Remote Desktop Connection
 - Type in Virtual Machine Number
-- 
+- Enter Username and Password
+- Connect to Virtual Machine
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
+<h2>Step 1</h2>
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-26 124940 - Copy](https://github.com/QBurn5/Azure-VMs/assets/93794708/38a4aef1-6f0a-4574-bc67-7a4cbbda8294)
+<h2>Step 2</h2>
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-26 125207 - Copy](https://github.com/QBurn5/Azure-VMs/assets/93794708/b31d2086-c49b-48f0-8d55-26459dc31679)
+<h2>Step 3</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-05 191219](https://github.com/QBurn5/Azure-VMs/assets/93794708/bf61a6b9-19b0-42a6-96f7-a0ef4a96e1e4)
+<h2>Step 4</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-26 141902](https://github.com/QBurn5/Azure-VMs/assets/93794708/ae840217-0b26-4427-95aa-874070207218)
+<h2>Step 5</h2>
+
+![Screenshot 2024-02-26 140604](https://github.com/QBurn5/Azure-VMs/assets/93794708/21818e4c-af0f-4607-aed5-414044336686)
+<h2>Step 6</h2>
+
+![Screenshot 2024-02-26 140722](https://github.com/QBurn5/Azure-VMs/assets/93794708/52264894-0e5e-4f17-a833-1603de7c2c20)
+<h2>Step 7</h2>
+
+![Screenshot 2024-02-26 140757](https://github.com/QBurn5/Azure-VMs/assets/93794708/237256ab-428f-4f43-9e81-a841feff7f4a)
