@@ -2,7 +2,7 @@
 <img src="https://guide-images.cdn.ifixit.com/igi/wYn6GS2wSEILXbXX.large" alt="VM-Logo"/>
 </p>
 
-<h1>Creating and Using Virtual Machines</h1>
+<h1>Creating and Connecting to Virtual Machines</h1>
 
 <h2>Creation</h2>
 
@@ -11,7 +11,7 @@
 - Create Network
 - Create Virtual Machine
 
-<h2>Using</h2>
+<h2>Connecting</h2>
 
 - Open Remote Desktop Connection
 - Type in Virtual Machine Number
